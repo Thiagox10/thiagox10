@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/xdHXIrM5Uz1UA/giphy.gif?cid=790b761170ed85e62f651ad1f7da127bcf3539d89086f4da&rid=giphy.gif&ct=g">
 </p>
 
-<p align="center">
+<div style="display: inline_block">
  <img src="https://github-readme-stats.vercel.app/api?username=thiagox10&theme=tokyonight&show_icons=true)">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagox10&theme=tokyonight&layout=compact">
-</p>
+</div>
 
 ## HardSkills 
 <div style="display: inline_block">
