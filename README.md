@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/xdHXIrM5Uz1UA/giphy.gif?cid=790b761170ed85e62f651ad1f7da127bcf3539d89086f4da&rid=giphy.gif&ct=g">
 </p>
 
-<div>
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagox10&theme=tokyonight&show_icons=true)">
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagox10&theme=tokyonight&layout=compact">
+<div  align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagox10&theme=tokyonight&show_icons=true)">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagox10&theme=tokyonight&layout=compact">
 </div>
 
 ## Habilidades
@@ -19,6 +19,8 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
 </div>
 
 ## Contato 
