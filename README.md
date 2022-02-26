@@ -1,4 +1,5 @@
-## Ola, Eu sou o Thiago Frozzi 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<+Ola,+Eu+sou+o+Thiago+Frozzi+👋+/>)](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://media.giphy.com/media/xdHXIrM5Uz1UA/giphy.gif?cid=790b761170ed85e62f651ad1f7da127bcf3539d89086f4da&rid=giphy.gif&ct=g">
 </p>
@@ -21,6 +22,9 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  
+
 
   
 </div>
