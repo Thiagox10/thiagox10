@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2316A4FF&lines=%3C+Ola%2C+Eu+sou+o+Thiago+Frozzi+%F0%9F%91%8B+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=%2316A4FF&lines=%3C+Ola%2C+Eu+sou+o+Thiago+Frozzi+%F0%9F%91%8B+%2F%3E)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/xdHXIrM5Uz1UA/giphy.gif?cid=790b761170ed85e62f651ad1f7da127bcf3539d89086f4da&rid=giphy.gif&ct=g">
